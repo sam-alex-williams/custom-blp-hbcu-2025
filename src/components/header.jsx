@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles.css';
 
 export const Header = (props) => {
   return (
@@ -8,6 +9,7 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
+                <div id="header-container">
                 <h1>
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
@@ -19,6 +21,7 @@ export const Header = (props) => {
                 >
                   Learn More
                 </a>{" "}
+                </div>
               </div>
             </div>
           </div>
