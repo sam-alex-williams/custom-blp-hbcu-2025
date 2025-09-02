@@ -1,14 +1,17 @@
 #header-container {
-    background-color: #b80d22;
-    opacity: 85%;
+    background-color: #000000cc;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-right: 30px;
     padding-left: 30px;
 }
 
-#navigation-bg {
-    background-color: #b80d22;
-    opacity: 75%;
-    color: white;
+.navbar {
+    background-color: #000000cc !important;
 }
+
+nav div div ul li a,
+.navbar-link {
+    color: white !important;
+}
+

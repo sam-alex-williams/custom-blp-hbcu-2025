@@ -1,9 +1,10 @@
 import React from "react";
+import '../styles.css';
 
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
+      <div className="container navigation-bg">
         <div className="navbar-header">
           <button
             type="button"
@@ -17,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
+          <a className="navbar-brand page-scroll navbar-link" href="#page-top">
             React Landing Page
           </a>{" "}
         </div>
