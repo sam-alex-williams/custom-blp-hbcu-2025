@@ -1,3 +1,15 @@
+/* About */
+#about, 
+#about .container h2 {
+    background: #000000;
+    background-color: #000000;
+    color: white;
+}
+
+#about .container h2::after {
+    background: linear-gradient(to right, #B80D22 0%, #B80D22 100%) !important;
+}
+
 /* Features */
 .fa {
     background: #B80D22 !important;
