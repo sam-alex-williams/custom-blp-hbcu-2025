@@ -23,3 +23,12 @@ nav > div > div > ul > li > a:hover,
 #menu.navbar-default .navbar-nav > li > a:after {
   background: linear-gradient(to right, red 0%, red 100%) !important;
 }
+
+#header-container a {
+    background: #B80D22 !important;
+}
+
+#contact-container div {
+    background: #B80D22 !important;
+}
+

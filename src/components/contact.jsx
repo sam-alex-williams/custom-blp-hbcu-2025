@@ -1,6 +1,6 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
-import React from "react";
+import '../styles.css';
 
 const initialState = {
   name: "",
@@ -36,7 +36,7 @@ export const Contact = (props) => {
       );
   };
   return (
-    <div>
+    <div id="contact-container">
       <div id="contact">
         <div className="container">
           <div className="col-md-8">
