@@ -102,26 +102,46 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-dice",
-      "title": "ENGAGING",
-      "text": "Draws everyone in from the first call to the final win."
-    },
-    {
-      "icon": "fa fa-users",
-      "title": "INTERACTIVE",
-      "text": "A game that sparks connection, conversation, and friendly competition."
-    },
-    {
-      "icon": "fa fa-theater-masks",
-      "title": "ENTERTAINING",
-      "text": "Every round brings fresh energy and unforgettable moments."
-    },
-    {
-      "icon": "fa fa-book-open",
-      "title": "EDUCATIONAL",
-      "text": "Celebrate culture and history while learning through play."
-    }
-  ]
+  "Features": {
+    "features": [
+      {
+        "icon": "fa fa-dice",
+        "title": "Includes 2 Sets"
+      },
+      {
+        "icon": "fa fa-clone",
+        "title": "12 Boards Per Set"
+      },
+      {
+        "icon": "fa fa-th",
+        "title": "67 Calling Cards Per Set"
+      },
+      {
+        "icon": "fa fa-users",
+        "title": "Supports Up to 24 Players"
+      }
+    ],
+    "traits": [
+      {
+        "icon": "fa fa-dice",
+        "title": "ENGAGING",
+        "text": "Draws everyone in from the first call to the final win."
+      },
+      {
+        "icon": "fa fa-users",
+        "title": "INTERACTIVE",
+        "text": "A game that sparks connection, conversation, and friendly competition."
+      },
+      {
+        "icon": "fa fa-theater-masks",
+        "title": "ENTERTAINING",
+        "text": "Every round brings fresh energy and unforgettable moments."
+      },
+      {
+        "icon": "fa fa-book-open",
+        "title": "EDUCATIONAL",
+        "text": "Celebrate culture and history while learning through play."
+      }
+    ]
+  }
 }
