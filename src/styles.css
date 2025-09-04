@@ -50,10 +50,13 @@ nav > div > div > ul > li > a:hover,
 
 /* Contact */
 
-#contact-container div {
-    background: #B80D22 !important;
+#footer div {
+    background: #B80D22;
 }
 
+#footer p {
+    color: white !important;
+}
 /* Header */
 
 #header-container a {
