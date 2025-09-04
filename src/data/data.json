@@ -8,11 +8,11 @@
                   "For more than 250 years, HBCUs have shaped our nation—educating generations of leaders, breaking barriers, and enriching American life with perseverance, vision, and excellence. As our country prepares to honor its Semiquincentennial, we proudly shine a light on these institutions, their founders, and their lasting contributions.",
                   "Whether played at home, in schools, camps, churches, or community gatherings, HBCU Bingo is more than just fun—it’s a celebration of heritage, unity, and the shared story of progress. Together, let’s honor the past, inspire the present, and carry this legacy forward for generations to come."],
     "Why": [
-      "🎓 Honors Legacy – Celebrates the history and contributions of over 100 Historically Black Colleges and Universities.",
-      "📚 Educational & Fun – Blends learning with entertainment, making history come alive through play.",
-      "✨ Inclusive Spirit – Created to be enjoyed in homes, schools, churches, camps, and community gatherings.",
-      "🇺🇸 A Patriotic Tribute – Aligns with America’s 250th Semiquincentennial by highlighting perseverance, progress, and unity.",
-      "🤝 Community Connection – Sparks conversation, pride, and shared memories across generations."
+    {"class": "legacy", "text": "Honors Legacy – Celebrates the history and contributions of over 100 Historically Black Colleges and Universities."}, 
+    {"class": "education", "text": "Educational & Fun – Blends learning with entertainment, making history come alive through play."}, 
+    {"class": "inclusion", "text": "Inclusive Spirit – Created to be enjoyed in homes, schools, churches, camps, and community gatherings."}, 
+    {"class": "patriotism", "text": "A Patriotic Tribute – Aligns with America’s 250th Semiquincentennial by highlighting perseverance, progress, and unity."}, 
+    {"class": "community", "text": "Community Connection – Sparks conversation, pride, and shared memories across generations."}
     ]
   },
   "Gallery": [

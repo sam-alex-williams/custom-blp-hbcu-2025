@@ -10,6 +10,39 @@
     background: linear-gradient(to right, #B80D22 0%, #B80D22 100%) !important;
 }
 
+#about .container ul {
+    list-style: none !;
+}
+
+#about .container ul li {
+    margin: 10px 0; 
+}
+
+#about .container ul li.legacy::before {
+    content: '🎓';
+    padding-right: 20px; 
+}
+
+#about .container ul li.education::before {
+    content: '📚';
+    padding-right: 20px;
+}
+
+#about .container ul li.inclusion::before {
+    content: '✨';
+    padding-right: 20px;
+}
+
+#about .container ul li.patriotism::before {
+    content: '🇺🇸';
+    padding-right: 20px;
+}
+
+#about .container ul li.community::before {
+    content: '🤝';
+    padding-right: 20px;
+}
+
 /* Features */
 .fa {
     background: #B80D22 !important;
