@@ -27,6 +27,9 @@ const App = () => {
       <Header data={landingPageData.Header} />
       <Features data={{items: (landingPageData.Features) ? landingPageData.Features.standardTraits : [], h2: "Why Bingo?" }} />
       <Features data={{items: (landingPageData.Features) ? landingPageData.Features.addedTraits : [], h2: "Why HBCU Bingo?" }} />
+      <div className="about-button text-center">
+        <button id="buy-now-btn" className="btn btn-custom btn-lg">Buy Now</button>
+      </div>
       <About data={landingPageData.About} />
       {/* <Gallery data={landingPageData.Gallery} /> */}
       <Contact data={landingPageData.Contact} />

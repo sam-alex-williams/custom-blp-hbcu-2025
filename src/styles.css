@@ -4,6 +4,12 @@
     color: #000000;
 }
  
+
+#about #buy-now-btn {
+    background: #B80D22;
+    margin: 5px 30px;
+}
+
 #about .container h2 {
     background: #ffffff;
     background-color: #ffffff;
@@ -115,9 +121,16 @@ nav > div > div > ul > li > a:hover,
 
 #header .intro {
   background-image: url('../public/img/intro-bg.jpg');
-  background-size: contain;    /* shrink to fit */
-  background-position: top;
-  background-repeat: no-repeat;
-  background-color: #ffffff;
+  background-size: auto 100%;    /* shrink to fit */
+  background-position: bottom;
+  background-repeat: repeat-y;
+  background-color: #B80D22;
+  background-image: fixed;
   width: 100%;
+}
+
+/* Other */
+
+#buy-now-btn {
+    background: #B80D22;
 }

@@ -21,31 +21,12 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             {" "}
             <img src="img/front-cover.png" className="img-responsive" alt="" />{" "}
-            <div className="about-button">
-              <button className="btn btn-custom btn-lg">Buy Now</button>
+            <div className="about-button text-center">
+              <button id="buy-now-btn" className="btn btn-custom btn-lg">Buy Now</button>
             </div>
           </div>
-        </div>
-        <div className="row">
-          <div className="col">
-            {/* <div className="about-text"> */}
-            <h2>Why Choose Us?</h2>
-            <div>
-            <div id="features">
-              {/* <ul>
-                {props.data
-                  ? props.data.Why.map((d, i) => (
-                    <li key={`${d.class}-${i}`} className={d.class}>{d.text}</li>
-                  ))
-                  : "loading"}
-              </ul> */}
-            </div>
-        </div>
-            </div>
-          </div>
-          
         </div>
       </div>
-  //  </div>
+    </div>
   );
 };
