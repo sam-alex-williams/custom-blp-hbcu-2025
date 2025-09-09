@@ -6,7 +6,7 @@ export const About = (props) => {
     <div id="about">
       <div className="container">
         <div className="about-text">
-          <h2>Why HBCU Bingo?</h2>
+          <h2>A Community Mission</h2>
         </div>
         <div className="row">
           <div className="col-xs-12 col-md-6">

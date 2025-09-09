@@ -1,9 +1,13 @@
 /* About */
-#about, 
+#about {
+    background: #ffffff;
+    color: #000000;
+}
+ 
 #about .container h2 {
-    background: #000000;
-    background-color: #000000;
-    color: #ffffff;
+    background: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 #about .container h2::after {
@@ -48,15 +52,15 @@
     background: #B80D22 !important;
 }
 
+#features {
+    margin: 20px;
+}
+
 #features, 
 #features .feature-container h2, 
 #features .feature-container h3 {
-    background-color: #ffffff;
+    background: #ffffff;
     color: #000000;
-}
-
-#features .feature-icons {
-    background: black;
 }
 
 #features .feature-container {
@@ -98,8 +102,8 @@ nav > div > div > ul > li > a:hover,
 #footer p {
     color: #ffffff !important;
 }
-/* Header */
 
+/* Header */
 #header-container a {
     background: #B80D22 !important;
 }
@@ -112,9 +116,8 @@ nav > div > div > ul > li > a:hover,
 #header .intro {
   background-image: url('../public/img/intro-bg.jpg');
   background-size: contain;    /* shrink to fit */
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-color: #ffffff;
-  height: 100vh;
   width: 100%;
 }

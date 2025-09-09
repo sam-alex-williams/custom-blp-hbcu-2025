@@ -25,9 +25,9 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.traits : [] }} />
+      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.standardTraits : [], h2: "Why Bingo?" }} />
+      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.addedTraits : [], h2: "Why HBCU Bingo?" }} />
       <About data={landingPageData.About} />
-      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.included : [] }} />
       {/* <Gallery data={landingPageData.Gallery} /> */}
       <Contact data={landingPageData.Contact} />
     </div>

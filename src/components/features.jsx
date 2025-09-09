@@ -24,8 +24,11 @@ export const Features = (props) => {
 
   return (
     <div id="features">
-      <div className="container feature-container justify-content-center">
-        {props.data && props.data.h2 ? <h2>{props.data.h2}</h2> : ''}
+      { props.data && props.data.h2 ? 
+      <div className="feature-container">
+        <h2>{props.data.h2}</h2>
+      </div> : ''}
+      <div className="container feature-container">
         {listItems ? listItems.map((_, x) => (
           <div className="row text-center feature-icons">
           {listItems[x].map((d, y) => (

@@ -89,7 +89,7 @@
         "title": "Supports Up to 24 Players"
       }
     ],
-    "traits": [
+    "standardTraits": [
       {
         "icon": "fa fa-dice",
         "title": "ENGAGING",
@@ -104,6 +104,23 @@
         "icon": "fa fa-theater-masks",
         "title": "ENTERTAINING",
         "text": "Every round brings fresh energy and unforgettable moments."
+      }
+    ],
+    "addedTraits": [
+      {
+        "icon": "fa fa-lightbulb",
+        "title": "MEANINGFUL",
+        "text": "Every call sparks conversation, connection, and pride."
+      },
+      {
+        "icon": "fa fa-star",
+        "title": "INSPIRING",
+        "text": "Special phrases can appear anywhere—reminding us to stay true."
+      },
+      { 
+        "icon": "fa fa-book-open", 
+        "title": "EDUCATIONAL", 
+        "text": "Every call highlights culture, history, and pride." 
       }
     ]
   }
