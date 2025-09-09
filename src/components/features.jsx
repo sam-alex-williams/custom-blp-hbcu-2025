@@ -26,7 +26,7 @@ export const Features = (props) => {
     <div id="features">
       <div className="container feature-container justify-content-center">
         {props.data && props.data.h2 ? <h2>{props.data.h2}</h2> : ''}
-        {listItems ? listItems.map((d, x) => (
+        {listItems ? listItems.map((_, x) => (
           <div className="row text-center feature-icons">
           {listItems[x].map((d, y) => (
                 <div key={`${d.title}-${x}-${y}`} 
