@@ -4,9 +4,9 @@
     "paragraph": "Celebrate HBCU pride while having a blast! HBCU Bingo mixes college facts, mascots, and founding dates with inspiring phrases to keep you motivated and engaged. Learn, play, and connect with history, culture, and each other—one bingo card at a time."
   },
   "About": {
-    "paragraph": ["At Project Stand-Up, we believe history should be celebrated, remembered, and shared in ways that bring people together. Inspired by Alfonza Scott’s book We’ve Got Something to Talk About, we created HBCU Bingo as both a game and a tribute to the incredible legacy of America’s Historically Black Colleges and Universities.",
-                  "For more than 250 years, HBCUs have shaped our nation—educating generations of leaders, breaking barriers, and enriching American life with perseverance, vision, and excellence. As our country prepares to honor its Semiquincentennial, we proudly shine a light on these institutions, their founders, and their lasting contributions.",
-                  "Whether played at home, in schools, camps, churches, or community gatherings, HBCU Bingo is more than just fun—it’s a celebration of heritage, unity, and the shared story of progress. Together, let’s honor the past, inspire the present, and carry this legacy forward for generations to come."],
+    "paragraph": ["HBCU Bingo is more than a game—it’s a tribute to the legacy of America’s Historically Black Colleges and Universities. Inspired by Alfonza Scott’s We’ve Got Something to Talk About, it celebrates the perseverance, vision, and excellence that have shaped generations of leaders.",
+                  "As we approach the nation’s Semiquincentennial, HBCU Bingo brings history to life—sparking conversation and pride in homes, schools, churches, and community gatherings. Play, learn, and honor a story that continues to inspire."
+                  ],
     "Why": [
     {"class": "legacy", "text": "Honors Legacy – Celebrates the history and contributions of over 100 Historically Black Colleges and Universities."}, 
     {"class": "education", "text": "Educational & Fun – Blends learning with entertainment, making history come alive through play."}, 
@@ -71,7 +71,7 @@
     "youtube": "youtube.com"
   },
   "Features": {
-    "features": [
+    "included": [
       {
         "icon": "fa fa-dice",
         "title": "Includes 2 Sets"
@@ -93,22 +93,17 @@
       {
         "icon": "fa fa-dice",
         "title": "ENGAGING",
-        "text": "Draws everyone in from the first call to the final win."
+        "text": "Simple, fast-paced, and fun across generations."
       },
       {
         "icon": "fa fa-users",
         "title": "INTERACTIVE",
-        "text": "A game that sparks connection, conversation, and friendly competition."
+        "text": "Brings family, friends, and communities closer."
       },
       {
         "icon": "fa fa-theater-masks",
         "title": "ENTERTAINING",
         "text": "Every round brings fresh energy and unforgettable moments."
-      },
-      {
-        "icon": "fa fa-book-open",
-        "title": "EDUCATIONAL",
-        "text": "Celebrate culture and history while learning through play."
       }
     ]
   }

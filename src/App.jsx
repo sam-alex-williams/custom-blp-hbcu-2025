@@ -20,12 +20,14 @@ const App = () => {
     setLandingPageData(JsonData);
   }, []);
 
+  console.log(landingPageData);
   return (
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.traits : [] }} />
       <About data={landingPageData.About} />
+      <Features data={{items: (landingPageData.Features) ? landingPageData.Features.included : [] }} />
       {/* <Gallery data={landingPageData.Gallery} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
