@@ -1,0 +1,127 @@
+{
+  "Header": {
+    "title": "Bingo, HBCU Style!",
+    "paragraph": "Celebrate HBCU pride while having a blast! HBCU Bingo mixes college facts, mascots, and founding dates with inspiring phrases to keep you motivated and engaged. Learn, play, and connect with history, culture, and each other—one bingo card at a time."
+  },
+  "About": {
+    "paragraph": ["HBCU Bingo is more than a game—it’s a tribute to the legacy of America’s Historically Black Colleges and Universities. Inspired by Alfonza Scott’s We’ve Got Something to Talk About, it celebrates the perseverance, vision, and excellence that have shaped generations of leaders.",
+                  "As we approach the nation’s Semiquincentennial, HBCU Bingo brings history to life—sparking conversation and pride in homes, schools, churches, and community gatherings. Play, learn, and honor a story that continues to inspire."
+                  ],
+    "Why": [
+    {"class": "legacy", "text": "Honors Legacy – Celebrates the history and contributions of over 100 Historically Black Colleges and Universities."}, 
+    {"class": "education", "text": "Educational & Fun – Blends learning with entertainment, making history come alive through play."}, 
+    {"class": "inclusion", "text": "Inclusive Spirit – Created to be enjoyed in homes, schools, churches, camps, and community gatherings."}, 
+    {"class": "patriotism", "text": "A Patriotic Tribute – Aligns with America’s 250th Semiquincentennial by highlighting perseverance, progress, and unity."}, 
+    {"class": "community", "text": "Community Connection – Sparks conversation, pride, and shared memories across generations."}
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": {
+    "included": [
+      {
+        "icon": "fa fa-dice",
+        "title": "Includes 2 Sets"
+      },
+      {
+        "icon": "fa fa-clone",
+        "title": "12 Boards Per Set"
+      },
+      {
+        "icon": "fa fa-th",
+        "title": "67 Calling Cards Per Set"
+      },
+      {
+        "icon": "fa fa-users",
+        "title": "Supports Up to 24 Players"
+      }
+    ],
+    "standardTraits": [
+      {
+        "icon": "fa fa-dice",
+        "title": "ENGAGING",
+        "text": "Simple, fast-paced, and fun across generations."
+      },
+      {
+        "icon": "fa fa-users",
+        "title": "INTERACTIVE",
+        "text": "Brings family, friends, and communities closer."
+      },
+      {
+        "icon": "fa fa-theater-masks",
+        "title": "ENTERTAINING",
+        "text": "Every round brings fresh energy and unforgettable moments."
+      }
+    ],
+    "addedTraits": [
+      {
+        "icon": "fa fa-lightbulb",
+        "title": "MEANINGFUL",
+        "text": "Every call sparks conversation, connection, and pride."
+      },
+      {
+        "icon": "fa fa-star",
+        "title": "INSPIRING",
+        "text": "Special phrases can appear anywhere—reminding us to stay true."
+      },
+      { 
+        "icon": "fa fa-book-open", 
+        "title": "EDUCATIONAL", 
+        "text": "Every call highlights culture, history, and pride." 
+      }
+    ]
+  }
+}
