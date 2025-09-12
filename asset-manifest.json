@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/custom-blp-hbcu-2025/static/css/main.5df52949.css",
+    "main.js": "/custom-blp-hbcu-2025/static/js/main.947cf263.js",
+    "static/media/intro-bg.jpg": "/custom-blp-hbcu-2025/static/media/intro-bg.3fa04dff974696900afe.jpg",
+    "index.html": "/custom-blp-hbcu-2025/index.html",
+    "main.5df52949.css.map": "/custom-blp-hbcu-2025/static/css/main.5df52949.css.map",
+    "main.947cf263.js.map": "/custom-blp-hbcu-2025/static/js/main.947cf263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5df52949.css",
+    "static/js/main.947cf263.js"
+  ]
+}
